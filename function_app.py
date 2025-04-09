@@ -1,5 +1,6 @@
 import azure.functions as func
 import logging
+import cryptography
 
 app = func.FunctionApp()
 
